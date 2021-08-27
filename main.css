@@ -1,0 +1,66 @@
+/* BASE STYLES */ 
+/* html {
+    color: hsl(224, 23%, 55%);
+    font-family: 'Red Hat Display', sans-serif;
+    font-size: 16px;
+    text-align: center;
+    width: 100%;
+}
+
+body {
+    background-image: url("images/pattern-background-mobile.svg");
+    background-repeat: no-repeat;
+    background-color: hsl(225, 100%, 94%);
+} */
+
+/* COMPONENT CONTAINER STYLES */ 
+/* .component-container {
+    width: 90%;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 25px;
+    overflow: hidden;
+    background-color: white;
+    box-shadow: 0px 25px 10px -10px hsla(224, 23%, 55%, 0.185);
+}
+
+.hero-img {
+    width: 100%;
+    background-color: hsl(245, 75%, 52%);
+}
+
+.component-content {
+    width: 85%;
+    margin: auto;
+} */
+
+
+
+
+/* FOOTER STYLES */ 
+.attribution {
+    font-size: .7rem;
+    padding: 50px 0 10px 0;
+}
+/* .attribution a {
+    color:hsl(223, 47%, 23%);
+}
+.attribution a:hover {
+    color:hsl(245, 68%, 66%);
+    cursor: pointer;
+} */
+
+
+
+
+
+@media all and (min-width: 1200px) {
+/** DESKTOP STYLES **/
+
+    /* BASE STYLES */ 
+
+
+    /* COMPONENT CONTAINER STYLES */ 
+
+    
+}
