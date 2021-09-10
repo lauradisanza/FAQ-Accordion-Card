@@ -1,17 +1,21 @@
 /* BASE STYLES */ 
-/* html {
-    color: hsl(224, 23%, 55%);
+html {
+    color: hsl(240, 6%, 50%);
     font-family: 'Kumbh Sans', sans-serif;
     font-size: 16px;
     text-align: center;
     width: 100%;
 }
 
-body {
+/* body {
     background-image: url("images/pattern-background-mobile.svg");
     background-repeat: no-repeat;
     background-color: hsl(225, 100%, 94%);
 } */
+
+h1 {
+    color: hsl(237, 12%, 33%);
+}
 
 /* COMPONENT CONTAINER STYLES */ 
 /* .component-container {
@@ -41,13 +45,13 @@ body {
     font-size: .7rem;
     padding: 50px 0 10px 0;
 }
-/* .attribution a {
-    color:hsl(223, 47%, 23%);
+.attribution a {
+    color:hsl(240, 6%, 50%);
 }
 .attribution a:hover {
-    color:hsl(245, 68%, 66%);
+    color:hsl(273, 75%, 66%);
     cursor: pointer;
-} */
+}
 
 
 
